@@ -1,3 +1,9 @@
+#steps to run code
+#1. open CMD
+#2. change directory to Arcmap
+#3. open python
+#4. paste this code to command prompt and run
+
 ###############################################################################################
 
 #### PLEASE MAKE SURE YOUR ARCMAP IS 10.2 OR HIGHER VERSION
